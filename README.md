@@ -7,10 +7,15 @@ We can implement this AI Application in our own Business Systems by our own cust
 This system is built using python and still working to use openAI API in our project.
 
 Major Objectives of our AI model are:
-               1. Develop a Functional AI Assistant:
+
+               1. Develop a Functional AI Assistant
+               
                2. Voice Interaction
+               
                3.Task Automation
+               
                4. Information Retrieval
+               
                5. Personalization       
                
 
