@@ -17,6 +17,11 @@ Major Objectives of our AI model are:
                4. Information Retrieval
                
                5. Personalization       
+
+Conclusion:
+The Jarvis AI Voice Assistant project showcases the integration of various Python libraries to create a functional and interactive virtual assistant. This project not only demonstrates technical skills in Python programming and API integration but also highlights the ability to design user-friendly software that responds to natural language commands. This assistant can be further enhanced with additional functionalities such as calendar integration, email management, and more advanced natural language processing capabilities.
+               
+               
                
 
 
